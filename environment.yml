@@ -16,6 +16,6 @@ dependencies:
   - scipy
   - wget
   - hist
-  - zfit
   - pip:
-    - jupyterlab-rise  # for jupyter notebook presentations
+      - zfit
+      - jupyterlab-rise  # for jupyter notebook presentations
